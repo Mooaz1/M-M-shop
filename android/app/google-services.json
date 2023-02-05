@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "724201689203",
+    "project_id": "mandmshop-cef62",
+    "storage_bucket": "mandmshop-cef62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:724201689203:android:a5ed6231c54e1b23a05a06",
+        "android_client_info": {
+          "package_name": "com.example.mandmshop"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "724201689203-cnhk02r1najeql27e609q597qam2hhrr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.mandmshop",
+            "certificate_hash": "dce537c7d6098a294f357a59e2fb55aa9f55e68c"
+          }
+        },
+        {
+          "client_id": "724201689203-6c4c2iieub9kkhj4skj42lmk3nuo8r84.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBFIYlYBbJwJa8v63q11RICItjkKiTk3l4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "724201689203-6c4c2iieub9kkhj4skj42lmk3nuo8r84.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
