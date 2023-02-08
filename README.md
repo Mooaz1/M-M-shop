@@ -1,6 +1,7 @@
-# mandmshop
+# M&M shop
 
-A new Flutter project.
+A new Flutter e- commerce app that allows users to buy what they need and pay at any way they want.
+
 
 
 #### Project screens 
